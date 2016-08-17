@@ -1,0 +1,2 @@
+mysql -h delphi -u sch226 -p sch226 < pj1_ddl.sql
+
